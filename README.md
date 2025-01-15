@@ -22,10 +22,10 @@ AUTHENTICATED SCAN WINDOWS:
 
 UNAUTHENTICATED LINUX:
 
-<img width="925" alt="Screenshot 2025-01-15 at 2 33 08 PM" src="https://github.com/user-attachments/assets/42cc571e-3ae3-4532-80d0-f57ebdb0d52f" />
+<img width="900" alt="Screenshot 2025-01-15 at 2 33 08 PM" src="https://github.com/user-attachments/assets/42cc571e-3ae3-4532-80d0-f57ebdb0d52f" />
 
 AUTHENTICATED LINUX:
 
-<img width="921" alt="Screenshot 2025-01-15 at 2 33 58 PM" src="https://github.com/user-attachments/assets/d92904b2-10c7-444c-a5b8-9c0935928d2f" />
+<img width="900" alt="Screenshot 2025-01-15 at 2 33 58 PM" src="https://github.com/user-attachments/assets/d92904b2-10c7-444c-a5b8-9c0935928d2f" />
 
 
