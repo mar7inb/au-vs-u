@@ -12,7 +12,9 @@ Unauthenticated scans show what an outsider can see and try to attack.
 Using both ensures you secure both the inside and outside of your systems.
 
 UNAUTHENTICATED SCAN:
+
 ![Screenshot 2025-01-14 185832](https://github.com/user-attachments/assets/aa2f7853-df01-4c55-905e-6b6daac065bf)
 
 AUTHENTICATED SCAN:
+
 ![Screenshot 2025-01-14 185917](https://github.com/user-attachments/assets/6700282c-240b-4b36-8083-ec8a2c1cee1d)
