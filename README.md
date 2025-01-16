@@ -35,6 +35,7 @@ AUTHENTICATED LINUX:
 
 
 
+
 You might be asking yourself why fix stuff a malicious actor can't see? Well, if an attacker can gain some level of access and begins to elevate their access they will be able to start seeing more stuff and eventually take advantage of vulnerabilities they can find. 
 
 By proactively practicing these scans we can fix vulnerabilites and minimize the attack surface. 
